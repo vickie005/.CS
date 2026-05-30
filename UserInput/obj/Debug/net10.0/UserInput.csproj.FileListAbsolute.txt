@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\pataspace academy\Assignments\UserInput\bin\Debug\net10.0\UserInput.exe
+C:\Users\User\Desktop\pataspace academy\Assignments\UserInput\bin\Debug\net10.0\UserInput.deps.json
+C:\Users\User\Desktop\pataspace academy\Assignments\UserInput\bin\Debug\net10.0\UserInput.runtimeconfig.json
+C:\Users\User\Desktop\pataspace academy\Assignments\UserInput\bin\Debug\net10.0\UserInput.dll
+C:\Users\User\Desktop\pataspace academy\Assignments\UserInput\bin\Debug\net10.0\UserInput.pdb
+C:\Users\User\Desktop\pataspace academy\Assignments\UserInput\obj\Debug\net10.0\UserInput.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\pataspace academy\Assignments\UserInput\obj\Debug\net10.0\UserInput.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\pataspace academy\Assignments\UserInput\obj\Debug\net10.0\UserInput.AssemblyInfo.cs
+C:\Users\User\Desktop\pataspace academy\Assignments\UserInput\obj\Debug\net10.0\UserInput.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\pataspace academy\Assignments\UserInput\obj\Debug\net10.0\UserInput.dll
+C:\Users\User\Desktop\pataspace academy\Assignments\UserInput\obj\Debug\net10.0\refint\UserInput.dll
+C:\Users\User\Desktop\pataspace academy\Assignments\UserInput\obj\Debug\net10.0\UserInput.pdb
+C:\Users\User\Desktop\pataspace academy\Assignments\UserInput\obj\Debug\net10.0\UserInput.genruntimeconfig.cache
+C:\Users\User\Desktop\pataspace academy\Assignments\UserInput\obj\Debug\net10.0\ref\UserInput.dll

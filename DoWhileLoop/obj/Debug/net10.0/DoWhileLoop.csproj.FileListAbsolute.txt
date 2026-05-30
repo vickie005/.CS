@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\pataspace academy\Assignments\DoWhileLoop\bin\Debug\net10.0\DoWhileLoop.exe
+C:\Users\User\Desktop\pataspace academy\Assignments\DoWhileLoop\bin\Debug\net10.0\DoWhileLoop.deps.json
+C:\Users\User\Desktop\pataspace academy\Assignments\DoWhileLoop\bin\Debug\net10.0\DoWhileLoop.runtimeconfig.json
+C:\Users\User\Desktop\pataspace academy\Assignments\DoWhileLoop\bin\Debug\net10.0\DoWhileLoop.dll
+C:\Users\User\Desktop\pataspace academy\Assignments\DoWhileLoop\bin\Debug\net10.0\DoWhileLoop.pdb
+C:\Users\User\Desktop\pataspace academy\Assignments\DoWhileLoop\obj\Debug\net10.0\DoWhileLoop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\pataspace academy\Assignments\DoWhileLoop\obj\Debug\net10.0\DoWhileLoop.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\pataspace academy\Assignments\DoWhileLoop\obj\Debug\net10.0\DoWhileLoop.AssemblyInfo.cs
+C:\Users\User\Desktop\pataspace academy\Assignments\DoWhileLoop\obj\Debug\net10.0\DoWhileLoop.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\pataspace academy\Assignments\DoWhileLoop\obj\Debug\net10.0\DoWhileLoop.dll
+C:\Users\User\Desktop\pataspace academy\Assignments\DoWhileLoop\obj\Debug\net10.0\refint\DoWhileLoop.dll
+C:\Users\User\Desktop\pataspace academy\Assignments\DoWhileLoop\obj\Debug\net10.0\DoWhileLoop.pdb
+C:\Users\User\Desktop\pataspace academy\Assignments\DoWhileLoop\obj\Debug\net10.0\DoWhileLoop.genruntimeconfig.cache
+C:\Users\User\Desktop\pataspace academy\Assignments\DoWhileLoop\obj\Debug\net10.0\ref\DoWhileLoop.dll

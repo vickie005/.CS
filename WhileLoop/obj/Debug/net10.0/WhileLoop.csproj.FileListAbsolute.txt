@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\pataspace academy\Assignments\WhileLoop\bin\Debug\net10.0\WhileLoop.exe
+C:\Users\User\Desktop\pataspace academy\Assignments\WhileLoop\bin\Debug\net10.0\WhileLoop.deps.json
+C:\Users\User\Desktop\pataspace academy\Assignments\WhileLoop\bin\Debug\net10.0\WhileLoop.runtimeconfig.json
+C:\Users\User\Desktop\pataspace academy\Assignments\WhileLoop\bin\Debug\net10.0\WhileLoop.dll
+C:\Users\User\Desktop\pataspace academy\Assignments\WhileLoop\bin\Debug\net10.0\WhileLoop.pdb
+C:\Users\User\Desktop\pataspace academy\Assignments\WhileLoop\obj\Debug\net10.0\WhileLoop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\pataspace academy\Assignments\WhileLoop\obj\Debug\net10.0\WhileLoop.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\pataspace academy\Assignments\WhileLoop\obj\Debug\net10.0\WhileLoop.AssemblyInfo.cs
+C:\Users\User\Desktop\pataspace academy\Assignments\WhileLoop\obj\Debug\net10.0\WhileLoop.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\pataspace academy\Assignments\WhileLoop\obj\Debug\net10.0\WhileLoop.dll
+C:\Users\User\Desktop\pataspace academy\Assignments\WhileLoop\obj\Debug\net10.0\refint\WhileLoop.dll
+C:\Users\User\Desktop\pataspace academy\Assignments\WhileLoop\obj\Debug\net10.0\WhileLoop.pdb
+C:\Users\User\Desktop\pataspace academy\Assignments\WhileLoop\obj\Debug\net10.0\WhileLoop.genruntimeconfig.cache
+C:\Users\User\Desktop\pataspace academy\Assignments\WhileLoop\obj\Debug\net10.0\ref\WhileLoop.dll
