@@ -1,3 +1,9 @@
+Creating a new C# project:
+*dotnet new console -o MyApp*
+
+running the application:
+*dotnet run*
+
 using System; // This brings in the basic tools provided by the .NET framework.
 
 // Every C# program needs a 'class'. Think of it as a container for your code.
@@ -53,3 +59,6 @@ do {
 }
 while (i <=5 );
 
+
+# Control Flows
+-determines how your program moves from one statement to another

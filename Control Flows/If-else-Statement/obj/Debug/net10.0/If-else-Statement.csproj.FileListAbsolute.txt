@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\pataspace academy\Assignments\Control Flows\If-else-Statement\bin\Debug\net10.0\If-else-Statement.exe
+C:\Users\User\Desktop\pataspace academy\Assignments\Control Flows\If-else-Statement\bin\Debug\net10.0\If-else-Statement.deps.json
+C:\Users\User\Desktop\pataspace academy\Assignments\Control Flows\If-else-Statement\bin\Debug\net10.0\If-else-Statement.runtimeconfig.json
+C:\Users\User\Desktop\pataspace academy\Assignments\Control Flows\If-else-Statement\bin\Debug\net10.0\If-else-Statement.dll
+C:\Users\User\Desktop\pataspace academy\Assignments\Control Flows\If-else-Statement\bin\Debug\net10.0\If-else-Statement.pdb
+C:\Users\User\Desktop\pataspace academy\Assignments\Control Flows\If-else-Statement\obj\Debug\net10.0\If-else-Statement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\pataspace academy\Assignments\Control Flows\If-else-Statement\obj\Debug\net10.0\If-else-Statement.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\pataspace academy\Assignments\Control Flows\If-else-Statement\obj\Debug\net10.0\If-else-Statement.AssemblyInfo.cs
+C:\Users\User\Desktop\pataspace academy\Assignments\Control Flows\If-else-Statement\obj\Debug\net10.0\If-else-Statement.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\pataspace academy\Assignments\Control Flows\If-else-Statement\obj\Debug\net10.0\If-else-Statement.sourcelink.json
+C:\Users\User\Desktop\pataspace academy\Assignments\Control Flows\If-else-Statement\obj\Debug\net10.0\If-else-Statement.dll
+C:\Users\User\Desktop\pataspace academy\Assignments\Control Flows\If-else-Statement\obj\Debug\net10.0\refint\If-else-Statement.dll
+C:\Users\User\Desktop\pataspace academy\Assignments\Control Flows\If-else-Statement\obj\Debug\net10.0\If-else-Statement.pdb
+C:\Users\User\Desktop\pataspace academy\Assignments\Control Flows\If-else-Statement\obj\Debug\net10.0\If-else-Statement.genruntimeconfig.cache
+C:\Users\User\Desktop\pataspace academy\Assignments\Control Flows\If-else-Statement\obj\Debug\net10.0\ref\If-else-Statement.dll

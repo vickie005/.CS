@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\pataspace academy\Assignments\Control Flows\If-else-if-Statement\bin\Debug\net10.0\If-else-if-Statement.exe
+C:\Users\User\Desktop\pataspace academy\Assignments\Control Flows\If-else-if-Statement\bin\Debug\net10.0\If-else-if-Statement.deps.json
+C:\Users\User\Desktop\pataspace academy\Assignments\Control Flows\If-else-if-Statement\bin\Debug\net10.0\If-else-if-Statement.runtimeconfig.json
+C:\Users\User\Desktop\pataspace academy\Assignments\Control Flows\If-else-if-Statement\bin\Debug\net10.0\If-else-if-Statement.dll
+C:\Users\User\Desktop\pataspace academy\Assignments\Control Flows\If-else-if-Statement\bin\Debug\net10.0\If-else-if-Statement.pdb
+C:\Users\User\Desktop\pataspace academy\Assignments\Control Flows\If-else-if-Statement\obj\Debug\net10.0\If-else-if-Statement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\pataspace academy\Assignments\Control Flows\If-else-if-Statement\obj\Debug\net10.0\If-else-if-Statement.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\pataspace academy\Assignments\Control Flows\If-else-if-Statement\obj\Debug\net10.0\If-else-if-Statement.AssemblyInfo.cs
+C:\Users\User\Desktop\pataspace academy\Assignments\Control Flows\If-else-if-Statement\obj\Debug\net10.0\If-else-if-Statement.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\pataspace academy\Assignments\Control Flows\If-else-if-Statement\obj\Debug\net10.0\If-else-if-Statement.sourcelink.json
+C:\Users\User\Desktop\pataspace academy\Assignments\Control Flows\If-else-if-Statement\obj\Debug\net10.0\If-else-if-Statement.dll
+C:\Users\User\Desktop\pataspace academy\Assignments\Control Flows\If-else-if-Statement\obj\Debug\net10.0\refint\If-else-if-Statement.dll
+C:\Users\User\Desktop\pataspace academy\Assignments\Control Flows\If-else-if-Statement\obj\Debug\net10.0\If-else-if-Statement.pdb
+C:\Users\User\Desktop\pataspace academy\Assignments\Control Flows\If-else-if-Statement\obj\Debug\net10.0\If-else-if-Statement.genruntimeconfig.cache
+C:\Users\User\Desktop\pataspace academy\Assignments\Control Flows\If-else-if-Statement\obj\Debug\net10.0\ref\If-else-if-Statement.dll
