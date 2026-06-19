@@ -63,6 +63,3 @@ while (i <=5 );
 # Control Flows
 -determines how your program moves from one statement to another
 
-
-Option A — Student Grade Calculator
-Option B — Simple Quiz Game

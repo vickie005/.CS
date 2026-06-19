@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\pataspace academy\Assignments\Quiz-game\bin\Debug\net10.0\Quiz-game.exe
+C:\Users\User\Desktop\pataspace academy\Assignments\Quiz-game\bin\Debug\net10.0\Quiz-game.deps.json
+C:\Users\User\Desktop\pataspace academy\Assignments\Quiz-game\bin\Debug\net10.0\Quiz-game.runtimeconfig.json
+C:\Users\User\Desktop\pataspace academy\Assignments\Quiz-game\bin\Debug\net10.0\Quiz-game.dll
+C:\Users\User\Desktop\pataspace academy\Assignments\Quiz-game\bin\Debug\net10.0\Quiz-game.pdb
+C:\Users\User\Desktop\pataspace academy\Assignments\Quiz-game\obj\Debug\net10.0\Quiz-game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\pataspace academy\Assignments\Quiz-game\obj\Debug\net10.0\Quiz-game.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\pataspace academy\Assignments\Quiz-game\obj\Debug\net10.0\Quiz-game.AssemblyInfo.cs
+C:\Users\User\Desktop\pataspace academy\Assignments\Quiz-game\obj\Debug\net10.0\Quiz-game.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\pataspace academy\Assignments\Quiz-game\obj\Debug\net10.0\Quiz-game.sourcelink.json
+C:\Users\User\Desktop\pataspace academy\Assignments\Quiz-game\obj\Debug\net10.0\Quiz-game.dll
+C:\Users\User\Desktop\pataspace academy\Assignments\Quiz-game\obj\Debug\net10.0\refint\Quiz-game.dll
+C:\Users\User\Desktop\pataspace academy\Assignments\Quiz-game\obj\Debug\net10.0\Quiz-game.pdb
+C:\Users\User\Desktop\pataspace academy\Assignments\Quiz-game\obj\Debug\net10.0\Quiz-game.genruntimeconfig.cache
+C:\Users\User\Desktop\pataspace academy\Assignments\Quiz-game\obj\Debug\net10.0\ref\Quiz-game.dll
