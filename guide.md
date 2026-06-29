@@ -40,6 +40,10 @@ class Program
 
 =========================================================================================================
 
+## Live demo links:
+* Play the **[Student Grade Calculator Live Demo](https://dotnetfiddle.net/wS2tpS)**
+* Play the **[Tech Quiz Game Live Demo](https://dotnetfiddle.net/glbYDr)**
+
 ## While loop
 - used to repeatedly execute a block of code as long as a condition is true
 eg. 

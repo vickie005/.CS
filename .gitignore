@@ -1,0 +1,8 @@
+# Ignore compiler build outputs
+bin/
+obj/
+
+# Ignore IDE specific files
+.vs/
+.vscode/
+*.user
